@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Duo taqdirni o’zgartiradi",
+    "package": "com.duo.book",
+    "image": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/duo.jpg"
+  },
+  {
+    "title": "Mavlono rumiy hikmatlari",
+    "package": "com.rumiy.book",
+    "image": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/rumiy.jpg"
+  }
+]
