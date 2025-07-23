@@ -1,12 +1,12 @@
 [
   {
     "title": "Kaktuslar Ham Gullaydi",
-    "package": "com.duo.book",
-    "image": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/kaktuslar.png"
+    "packageName": "com.duo.book",
+    "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/kaktuslar.png"
   },
   {
     "title": "Alkimyogar",
-    "package": "com.rumiy.book",
-    "image": "https://github.com/Mrdeveloper1717/book-list-json/blob/main/images/alkimyogar.png"
+    "packageName": "com.rumiy.book",
+    "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/alkimyogar.png"
   }
 ]
