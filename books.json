@@ -3,5 +3,10 @@
         "title": "Kitoblar Olami",
         "packageName": "com.sadirboyprogrammer.kitoblarolami",
         "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/cover_kitob.webp"
+    },
+    {
+        "title": "Tildosh",
+        "packageName": "com.example.tildosh",
+        "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/tildosh.webp"
     }
 ]
