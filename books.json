@@ -8,5 +8,10 @@
         "title": "Tildosh",
         "packageName": "com.tildosh.app",
         "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/tildosh.webp"
+    },
+    {
+        "title": "Mathbase - Matematikani o'rganing",
+        "packageName": "com.mathbase.app",
+        "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/mathbase.webp"
     }
 ]
