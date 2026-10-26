@@ -18,5 +18,20 @@
         "title": "Mathbase - Matematikani o'rganing",
         "packageName": "com.mathbase.app",
         "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/mathbase.webp"
+    },
+    {
+        "title": "AvtoYHQ - Prava Avtotest 2026",
+        "packageName": "com.smaruf.avtoyhq",
+        "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/cover_avtoyhq.webp"
+    },
+    {
+        "title": "Musbat - Moliyaviy yordamchi",
+        "packageName": "com.smaruf.moneymanager",
+        "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/cover_musbat.webp"
+    },
+    {
+        "title": "Jumboq - Mantiqiy Savollar",
+        "packageName": "com.sadirboyprogrammer.jumboqlihikoyalar",
+        "imageUrl": "https://raw.githubusercontent.com/Mrdeveloper1717/book-list-json/main/images/cover_jumboq.webp"
     }
 ]
